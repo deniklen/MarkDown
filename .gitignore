@@ -1,14 +1,14 @@
 ##Ignoring##
 
 *.aux
-*.dvi
 *.fdb_latexmk
 *.fls
+*.log
 *.nav
 *.out
-*.snm
-*.toc
-tmp.md
-*.synctex.gz
 *.pdf
-*.log
+*.snf
+*.synctex.gz
+*.toc
+*.vrb
+
