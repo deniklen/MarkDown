@@ -1,5 +1,13 @@
-\begin{verbatim}
-	int i, j;
-	 scanf("%d", &i);
+\frametitle{Primjer sintakse}
 
-\end{verbatim}
+	\begin{verbatim}
+	# Markdown
+	Uz pomoć mardown-a možemo vrlo lako **podebljati** ,
+	 *ukositi* i _podcrtati_ tekst.
+	\end{verbatim}
+
+	\begin{figure}[b]
+		\includegraphics[width = 0.8\linewidth]{Slike/kod.png}
+		\caption{Ispis}
+	\end{figure}
+
