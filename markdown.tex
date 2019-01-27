@@ -3,14 +3,15 @@
 \usepackage[utf8]{inputenc}
 \usepackage{beamerthemeBerlin}
 \usepackage{graphicx}
+\usepackage{verbatim}
 \usepackage{hyperref}
 \begin{document}
-
 
 \title{Markdown}
 \author{Deni Klen, Fran Grenko i Mihael Petranović}
 \institute{Tehnički fakultet Rijeka, Sveučilište u Rijeci}
 \maketitle
+
 
 
 
@@ -54,6 +55,38 @@
 	\end{column}
 	\end{columns}
 	\end{minipage}
+
+\end{frame}
+
+\begin{frame}[fragile]
+	\frametitle{Primjer sintakse}
+
+	\begin{verbatim}
+	# Markdown
+	Uz pomoć mardown-a možemo vrlo lako **podebljati** ,
+	 *ukositi* i _podcrtati_ tekst.
+	\end{verbatim}
+
+	\begin{figure}[b]
+		\caption{Ispis teksta}
+		\includegraphics[width = 0.8\linewidth]{Slike/kod.png}
+		
+	\end{figure}
+\end{frame}
+
+\begin{frame}[fragile]
+	\frametitle{Primjer sintakse}
+	
+	\begin{verbatim}
+	Lagano se mogu kreirati [linkovi](www.google.com)
+	i slike  ![slika](macak.jpg)
+
+	\end{verbatim}
+
+	\begin{figure}[b]
+	\caption{Ispis linkova i slika}
+	\includegraphics[width = 0.8\linewidth]{Slike/kod2.png}
+	\end{figure}
 
 \end{frame}
 
@@ -200,8 +233,6 @@
 	\end{minipage}
 
 \end{frame}
-
-
 
 
 

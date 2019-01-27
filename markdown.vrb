@@ -1,0 +1,13 @@
+\frametitle{Primjer sintakse}
+
+	\begin{verbatim}
+	Lagano se mogu kreirati [linkovi](www.google.com)
+	i slike  ![slika](macak.jpg)
+
+	\end{verbatim}
+
+	\begin{figure}[b]
+	\caption{Ispis linkova i slika}
+	\includegraphics[width = 0.8\linewidth]{Slike/kod2.png}
+	\end{figure}
+
