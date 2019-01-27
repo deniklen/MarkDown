@@ -269,12 +269,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-INPUT /home/fran/MarkDown/markdown.out
-INPUT /home/fran/MarkDown/markdown.out
-INPUT /home/fran/MarkDown/markdown.out
-INPUT /home/fran/MarkDown/markdown.out
-INPUT /home/fran/MarkDown/markdown.out
-INPUT /home/fran/MarkDown/markdown.out
 OUTPUT /home/fran/MarkDown/markdown.out
 INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
