@@ -1,13 +1,13 @@
 \frametitle{Primjer sintakse}
 
 	\begin{verbatim}
-	# Markdown
-	Uz pomoć mardown-a možemo vrlo lako **podebljati** ,
-	 *ukositi* i _podcrtati_ tekst.
+	Lagano se mogu kreirati [linkovi](www.google.com)
+	i slike  ![slika](macak.jpg)
+
 	\end{verbatim}
 
 	\begin{figure}[b]
-		\includegraphics[width = 0.8\linewidth]{Slike/kod.png}
-		\caption{Ispis}
+	\caption{Ispis linkova i slika}
+	\includegraphics[width = 0.8\linewidth]{Slike/kod2.png}
 	\end{figure}
 
