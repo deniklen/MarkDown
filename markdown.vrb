@@ -1,13 +1,9 @@
-\frametitle{Primjer sintakse}
+\frametitle{Markdown Extra - sintaksa}
 
-	\begin{verbatim}
-	Lagano se mogu kreirati [linkovi](www.google.com)
-	i slike  ![slika](macak.jpg)
+\textbf{Primjer tablice}
+\begin{figure}[htbp]
+	\includegraphics[width=1.1\textwidth]{Slike/table.png}
 
-	\end{verbatim}
-
-	\begin{figure}[b]
-	\caption{Ispis linkova i slika}
-	\includegraphics[width = 0.8\linewidth]{Slike/kod2.png}
 	\end{figure}
+
 

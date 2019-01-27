@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.10)  27 JAN 2019 13:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.10)  27 JAN 2019 15:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1182,24 +1182,24 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 <Slike/markdown.png, id=46, 1670.24pt x 1027.84pt>
 File: Slike/markdown.png Graphic file (type png)
 <use Slike/markdown.png>
-Package pdftex.def Info: Slike/markdown.png  used on input line 38.
+Package pdftex.def Info: Slike/markdown.png  used on input line 39.
 (pdftex.def)             Requested size: 71.13188pt x 43.7728pt.
 
-Overfull \hbox (9.67485pt too wide) in paragraph at lines 38--38
+Overfull \hbox (9.67485pt too wide) in paragraph at lines 39--39
 [][]  
  []
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+LaTeX Font Info:    Try loading font information for U+msa on input line 39.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+LaTeX Font Info:    Try loading font information for U+msb on input line 39.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 38.
+line 39.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -1220,7 +1220,7 @@ File: Slike/kod.png Graphic file (type png)
 Package pdftex.def Info: Slike/kod.png  used on input line 11.
 (pdftex.def)             Requested size: 245.83282pt x 167.89104pt.
 )
-Overfull \vbox (66.49815pt too high) detected at line 75
+Overfull \vbox (66.49815pt too high) detected at line 76
  []
 
 [4
@@ -1235,7 +1235,7 @@ File: Slike/kod2.png Graphic file (type png)
 Package pdftex.def Info: Slike/kod2.png  used on input line 11.
 (pdftex.def)             Requested size: 245.83282pt x 103.04788pt.
 )
-Overfull \vbox (1.655pt too high) detected at line 91
+Overfull \vbox (1.655pt too high) detected at line 92
  []
 
 [5
@@ -1243,21 +1243,90 @@ Overfull \vbox (1.655pt too high) detected at line 91
  </home/fran/MarkDown/Slike/kod2.png>] [6
 
 ]
-<Slike/githublogo.png, id=188, 562.1pt x 562.1pt>
+<Slike/Usporedba1.png, id=187, 244.915pt x 147.55125pt>
+File: Slike/Usporedba1.png Graphic file (type png)
+<use Slike/Usporedba1.png>
+Package pdftex.def Info: Slike/Usporedba1.png  used on input line 138.
+(pdftex.def)             Requested size: 113.80954pt x 42.67844pt.
+<Slike/usporeda2.png, id=188, 274.02374pt x 145.54375pt>
+File: Slike/usporeda2.png Graphic file (type png)
+<use Slike/usporeda2.png>
+Package pdftex.def Info: Slike/usporeda2.png  used on input line 138.
+(pdftex.def)             Requested size: 113.8139pt x 42.67741pt.
+ [7
+
+ </home/fran/MarkDown/Slike/Usporedba1.png> </home/fran/MarkDown/Slike/usporeda
+2.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 162
+.
+LaTeX Font Info:    No file OMScmss.fd. on input line 162.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbackslash' on input line 162.
+
+[8
+
+]
+<Slike/githublogo.png, id=247, 562.1pt x 562.1pt>
 File: Slike/githublogo.png Graphic file (type png)
 <use Slike/githublogo.png>
-Package pdftex.def Info: Slike/githublogo.png  used on input line 134.
+Package pdftex.def Info: Slike/githublogo.png  used on input line 185.
 (pdftex.def)             Requested size: 71.13188pt x 71.12859pt.
 
-Overfull \hbox (9.67485pt too wide) in paragraph at lines 134--134
+Overfull \hbox (9.67485pt too wide) in paragraph at lines 185--185
 [][]  
  []
 
-[7
+[9
 
- </home/fran/MarkDown/Slike/githublogo.png>] [8
+ </home/fran/MarkDown/Slike/githublogo.png>] [10
 
-] [9
+]
+\openout4 = `markdown.vrb'.
+
+
+(/home/fran/MarkDown/markdown.vrb
+<Slike/kod3.png, id=301, 138.5175pt x 58.2175pt>
+File: Slike/kod3.png Graphic file (type png)
+<use Slike/kod3.png>
+Package pdftex.def Info: Slike/kod3.png  used on input line 10.
+(pdftex.def)             Requested size: 92.1879pt x 38.74522pt.
+) [11
+
+ </home/fran/MarkDown/Slike/kod3.png>]
+\openout4 = `markdown.vrb'.
+
+
+(/home/fran/MarkDown/markdown.vrb
+<Slike/kod4.png, id=329, 515.9275pt x 258.9675pt>
+File: Slike/kod4.png Graphic file (type png)
+<use Slike/kod4.png>
+Package pdftex.def Info: Slike/kod4.png  used on input line 13.
+(pdftex.def)             Requested size: 184.3758pt x 92.5446pt.
+) [12
+
+ </home/fran/MarkDown/Slike/kod4.png>]
+[13
+
+]
+\openout4 = `markdown.vrb'.
+
+ (/home/fran/MarkDown/markdown.vrb
+<Slike/table.png, id=385, 2117.9125pt x 746.79pt>
+File: Slike/table.png Graphic file (type png)
+<use Slike/table.png>
+Package pdftex.def Info: Slike/table.png  used on input line 5.
+(pdftex.def)             Requested size: 338.02072pt x 119.18117pt.
+
+Overfull \hbox (30.73085pt too wide) in paragraph at lines 5--6
+ [] 
+ []
+
+) [14
+
+ </home/fran/MarkDown/Slike/table.png>] [15
 
 ]
 \tf@nav=\write6
@@ -1269,20 +1338,24 @@ Overfull \hbox (9.67485pt too wide) in paragraph at lines 134--134
 \tf@snm=\write8
 \openout8 = `markdown.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 299.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 299.
 
 (/home/fran/MarkDown/markdown.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 299.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 299.
 Package rerunfilecheck Info: File `markdown.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
  ) 
 Here is how much of TeX's memory you used:
- 17886 strings out of 492982
- 336854 string characters out of 6134896
+ 17946 strings out of 492982
+ 337792 string characters out of 6134896
  423579 words of memory out of 5000000
- 21001 multiletter control sequences out of 15000+600000
+ 21037 multiletter control sequences out of 15000+600000
  15170 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,55p,803b,797s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1291,11 +1364,12 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on /home/fran/MarkDown/markdown.pdf (9 pages, 180023 bytes).
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on /home/fran/MarkDown/markdown.pdf (15 pages, 303208 bytes).
 PDF statistics:
- 302 PDF objects out of 1000 (max. 8388607)
- 267 compressed objects within 3 object streams
- 19 named destinations out of 1000 (max. 500000)
- 63 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 477 PDF objects out of 1000 (max. 8388607)
+ 423 compressed objects within 5 object streams
+ 31 named destinations out of 1000 (max. 500000)
+ 88 words of extra memory for PDF output out of 10000 (max. 10000000)
 
