@@ -1,0 +1,9 @@
+\frametitle{Markdown Extra - sintaksa}
+
+\textbf{Primjer tablice:}
+\begin{figure}[htbp]
+	\includegraphics[width=1.1\textwidth]{Slike/table.png}
+
+	\end{figure}
+
+

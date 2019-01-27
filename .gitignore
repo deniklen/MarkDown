@@ -1,0 +1,14 @@
+##Ignoring##
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.pdf
+*.snf
+*.synctex.gz
+*.toc
+*.vrb
+
