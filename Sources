@@ -1,8 +1,11 @@
-Sources
+Sources+
 https://en.wikipedia.org/wiki/Markdown
 https://www.markdowntutorial.com/
 https://commonmark.org/help/
 https://www.markdownguide.org/
+<<<<<<< HEAD
 http://commonmark.org/
+=======
+>>>>>>> Review
 https://github.github.com/gfm/
 https://michelf.ca/projects/php-markdown/extra/

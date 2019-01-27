@@ -1,0 +1,135 @@
+\documentclass{beamer}
+\usepackage[croatian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{beamerthemeBerlin}
+\usepackage{graphicx}
+
+\begin{document}
+
+
+\title{Markdown}
+\author{Deni Klen, Fran Grenko i Mihael Petranović}
+\institute{Tehnički fakultet Rijeka, Sveučilište u Rijeci}
+\maketitle
+
+
+
+
+
+\begin{frame}
+	\frametitle{Što je Markdown?}
+
+ 	\begin{minipage}[0.2\textheight]{\textwidth}
+ 	\begin{columns}[T]
+ 	\begin{column}{0.8\textwidth}
+ 	\begin{itemize}
+		\item{Markdown je lagani markup jezik sa sintaksom za oblikovanje običnog teksta čija je glavna značajka čitljivost}
+		\item{Stvorili su ga John Gruber i Aaron Swartz 2004. godine}
+		\item{Postoji više inačica koje se i dalje razvijaju \\ npr. \textit{CommonMark, GFM, Markdown Extra} ...}
+	\end{itemize}
+	\end{column}
+	\begin{column}{0.2\textwidth}
+	\includegraphics[width=2.5cm]{Slike/markdown.png}
+	\end{column}
+	\end{columns}
+	\end{minipage}
+
+\end{frame}
+
+
+
+
+
+\begin{frame}
+	\frametitle{Upotreba Markdown-a}
+
+ 	\begin{minipage}[0.2\textheight]{\textwidth}
+ 	\begin{columns}[T]
+ 	\begin{column}{0.8\textwidth}
+ 	\begin{itemize}
+		\item{Osnovna upotreba je formatiranje, pisanje i uređivanje različiti tekstualnih datoteka, uljepšavanje teksta itd.}
+		\item{\textit{*Ukošavanje*}, \textbf{**podebljavanje**}, \emph{isticanje} i \underline{podcrtavanje} teksta neke su od mogućnosti uljepšavanja teksta u MarkDownu}
+		\item{Markdown također omogućuje kreiranje zaglavlja i lista te ubacivanje poveznica, slika i citata}
+	\end{itemize}
+	\end{column}
+	\end{columns}
+	\end{minipage}
+
+\end{frame}
+
+
+
+
+
+\begin{frame}
+	\frametitle{CommonMark}
+
+ 	\begin{minipage}[0.2\textheight]{\textwidth}
+ 	\begin{columns}[T]
+ 	\begin{column}{0.8\textwidth}
+ 	\begin{itemize}
+		\item{Jedna od najpopularnijih inačica prvotnog Markdown jezika}
+		\item{Želja developera CommonMark-a je stvorit jedinstveni oblik Markdown sintakse koju bi svi mogli koristiti kako ne bi dolazilo do razlika u prikazivanju \\(razlike se događaju jer se tekst drugačije "čita" i prikazuje za različite inačice Markdown sintaksa)}
+	\end{itemize}
+	\end{column}
+	\end{columns}
+	\end{minipage}
+
+\end{frame}
+
+
+
+
+
+\begin{frame}
+	\frametitle{GFM - GitHub Flavored Markdown}
+
+ 	\begin{minipage}[0.2\textheight]{\textwidth}
+ 	\begin{columns}[T]
+ 	\begin{column}{0.8\textwidth}
+ 	\begin{itemize}
+		\item{Inačica koja se bazira ponajviše na CommonMark specifikacijama}
+		\item{Koristi se na stranicama GitHub Enterprise i \href{https://github.com/}{GitHub.com}}
+	\end{itemize}
+	\end{column}
+	\begin{column}{0.2\textwidth}
+	\includegraphics[width=2.5cm]{Slike/githublogo.png}
+	\end{column}
+	\end{columns}
+	\end{minipage}
+
+\end{frame}
+
+
+
+
+
+\begin{frame}
+	\frametitle{Markdown Extra}
+
+ 	\begin{minipage}[0.2\textheight]{\textwidth}
+ 	\begin{columns}[T]
+ 	\begin{column}{0.8\textwidth}
+ 	\begin{itemize}
+ 		\item{Ekstenzija PHP Markdown-a}
+		\item{Omogućuje upotrebu značajki koje se nisu mogle upotrebljavati u prvotnoj Markdown sintaksi}
+		\item{Primjeri: 
+		\begin{itemize}
+			\item{Markdown unutar HTML blokova}
+			\item{Fusnote}
+			\item{Liste definicija}
+			\item{Tablice}
+			\item{Skraćenice}...
+		\end{itemize}}
+	\end{itemize}
+	\end{column}
+	\end{columns}
+	\end{minipage}
+
+\end{frame}
+
+
+
+
+
+\end{document}
